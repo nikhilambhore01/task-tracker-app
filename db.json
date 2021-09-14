@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "message": "c100 system error please see",
+      "attention": true,
+      "tech": "Amol joshi",
+      "date": "2021-09-14T11:28:33.392Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "line no 005 not working please check and confirm",
+      "attention": false,
+      "tech": "Ajay Dev",
+      "date": "2021-09-14T11:30:27.583Z"
+    },
+    {
+      "message": "store dep. system not working",
+      "attention": true,
+      "tech": "Gopal Kumar",
+      "date": "2021-09-14T11:33:23.636Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Aman",
+      "lastName": "Verma"
+    },
+    {
+      "id": 3,
+      "firstName": "Gopal",
+      "lastName": "Kumar"
+    },
+    {
+      "firstName": "Veer",
+      "lastName": "Shaa",
+      "id": 4
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "joshi",
+      "id": 5
+    },
+    {
+      "firstName": "Ajay",
+      "lastName": "Dev",
+      "id": 6
+    }
+  ]
+}
